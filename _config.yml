@@ -2,7 +2,7 @@
 title: 'Rokhimin whd | site'
 description: 'Private Blog and Portfolio'
 keyword: 'ruby, rails, javascript, vuejs, nodejs'
-url: '' # your host
+url: 'http://yourdomain.com' # your host
 
 # when build blog on server, if you don't need baseurl, you should leave this value blank.
 # 在服务器上建站时，如果你不需要子域名，请将这一格留空
