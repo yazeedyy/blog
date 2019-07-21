@@ -2,6 +2,10 @@
 ## About
 simple jekyll based from H20 
 
+###### Demo
+- host github :
+- host heroku : https://jekyll-rokhimin.herokuapp.com/
+
 ## Deploy
 
 ###### Github
