@@ -1,7 +1,8 @@
 {
-  "name": "Jekyll on Heroku",
-  "description": "Jekyll on Heroku",
-  "repository": "https://github.com/rokhimin/lVTH-7827",
-  "website": "http://www.jamesward.com/2014/09/24/jekyll-on-heroku",
-  "keywords": ["jekyll", "static"]
+  "name": "Jekyll - Rokhimin whd",
+  "description": "simple Blog powered by jekyll . based template from H20",
+  "repository": "https://github.com/rokhimin/blog/tree/deploy_heroku",
+  "website": "https://rokhimin.github.io/blog/",
+  "keywords": ["jekyll", "static"],
+  "logo": "https://raw.githubusercontent.com/rokhimin/blog/master/assets/img/profile.png"
 }
