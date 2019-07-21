@@ -1,6 +1,6 @@
 
 ## About
-simple jekyll based from H20 
+simple jekyll based from H20 . full dark
 
 ###### Demo
 - host github : https://rokhimin.github.io/blog
