@@ -3,8 +3,8 @@
 simple jekyll based from H20 
 
 ###### Demo
-- host github :
-- host heroku : https://jekyll-rokhimin.herokuapp.com/
+- host github : https://rokhimin.github.io/blog
+- host heroku : https://jekyll-rokhimin.herokuapp.com
 
 ## Deploy
 
