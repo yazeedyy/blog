@@ -22,4 +22,3 @@ Settings > GithubPages > Select Branch
 - `bundle exec jekyll serve --watch`
 
 ###### Thankyou :)
-
