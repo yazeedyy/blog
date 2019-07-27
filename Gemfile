@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-ruby '2.4.2'
+ruby '2.6.2'
 gem 'jekyll', '3.6.2'
 gem 'kramdown', '1.16.1'
 gem 'rack-jekyll', '0.5.0'
