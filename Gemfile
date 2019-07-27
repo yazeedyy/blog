@@ -1,8 +1,6 @@
-source 'https://rubygems.org'
-ruby '2.6.2'
-gem 'jekyll', '3.6.2'
-gem 'kramdown', '1.16.1'
-gem 'rack-jekyll', '0.5.0'
-gem 'rake', '12.3.0'
-gem 'puma', '3.11.0'
-gem 'yajl-ruby', '1.3.1'
+source "https://rubygems.org"
+group :jekyll_plugins do
+  gem 'jekyll'
+  # gem 'hawkins'
+  # gem 'octopress-autoprefixer'
+end
