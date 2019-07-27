@@ -1,3 +1,19 @@
+
+exclude:
+  - "/vendor/"
+  - "/node_modules/"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "gulpfile.js"
+  - "README.md"
+  - "LICENSE.md"
+  - "*.gemspec"
+
+keep_files:
+  - "CNAME"
+  - ".git"
+  - ".gitignore"
+
 # Site settings 配置站点
 title: 'Rokhimin whd | site'
 description: 'Private Blog and Portfolio'
