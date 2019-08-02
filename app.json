@@ -1,0 +1,8 @@
+{
+  "name": "Jekyll - Rokhimin whd",
+  "description": "simple Blog powered by jekyll . based template from H20",
+  "repository": "https://github.com/rokhimin/blog",
+  "website": "https://rokhimin.github.io/blog/",
+  "keywords": ["jekyll", "static"],
+  "logo": "https://raw.githubusercontent.com/rokhimin/blog/master/assets/img/profile.png"
+}
