@@ -18,6 +18,9 @@ Settings > GithubPages > Select Branch
 ###### Netlify
  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/rokhimin/blog/tree/deploy_netlify)
 
+###### OpenShift
+[Here](https://github.com/rokhimin/blog/tree/deploy_openshift)
+
 ## Test Locally
 - Requires (ruby, bundler, jekyll)
 - `bundle install`
