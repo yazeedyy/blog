@@ -10,7 +10,7 @@ cover: 'https://buddy.works/guides/thumbnails/cover-heroku.png'
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)  
 
-1. clone this repo
+1. clone this repo [Discordrb-heroku](https://github.com/rokhimin/discordrb-heroku)
 2. add your token and userid in config/config.rb
 3. deploy
 4. open console bash in website heroku or ```heroku run bash``` in git CLI
