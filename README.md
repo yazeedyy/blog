@@ -16,8 +16,8 @@ Settings > GithubPages > Select Branch
 [![Deploy to heroku](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?button-url=https://github.com/rokhimin/blog/tree/deploy_heroku&template=https://github.com/rokhimin/blog/tree/deploy_heroku) 
 
 ###### Netlify
-*update 8/4/2019 you can't instant deploy to netlify -read issue
  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/rokhimin/blog/tree/deploy_netlify)
+- *update 8/4/2019 you can't instant deploy to netlify -read issue
 
 ###### OpenShift
 [Here](https://github.com/rokhimin/blog/tree/deploy_openshift)
