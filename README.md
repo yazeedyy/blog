@@ -17,7 +17,7 @@ Settings > GithubPages > Select Branch
 
 ###### Netlify
  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/rokhimin/blog/tree/deploy_netlify)
-- *update 8/4/2019 you can't instant deploy to netlify -read issue
+- [update 8/4/2019] you can't instant deploy to netlify, pls read issue
 
 ###### OpenShift
 [Here](https://github.com/rokhimin/blog/tree/deploy_openshift)
