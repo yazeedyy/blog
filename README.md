@@ -29,5 +29,5 @@ Settings > GithubPages > Select Branch
 
 ## License
 [MIT License](https://github.com/rokhimin/blog/blob/master/LICENSE)
-- [notes]you can't share my posting blog dan copypaste without permission
+- [notes]you can't copypaste my posting blogs without permission 
 
