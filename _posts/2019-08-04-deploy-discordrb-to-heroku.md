@@ -4,7 +4,7 @@ title: 'Deploy Discordrb to Heroku'
 date: 2019-08-04
 categories: tutorials
 tags: ruby discordrb
-cover: 'https://i.imgur.com/pDXB8GQ.jpg'
+cover: 'https://buddy.works/guides/thumbnails/cover-heroku.png'
 ---
 ### How to deploy Discordrb to heroku ?
 
