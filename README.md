@@ -25,7 +25,7 @@ Settings > GithubPages > Select Branch
 ## Test Locally
 - Requires (ruby, bundler, jekyll)
 - `bundle install`
-- `bundle exec jekyll serve --watch`
+- `jekyll s`
 
 ## License
 [MIT License](https://github.com/rokhimin/blog/blob/master/LICENSE)
