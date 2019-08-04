@@ -27,4 +27,7 @@ Settings > GithubPages > Select Branch
 - `bundle install`
 - `bundle exec jekyll serve --watch`
 
-###### Thankyou :)
+## License
+[MIT License](https://github.com/rokhimin/blog/blob/master/LICENSE)
+- [notes]you can't share my posting blog dan copypaste without permission
+
